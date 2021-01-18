@@ -13,3 +13,8 @@ Used JavaScript and the D3.js library to retrive coordinates and magnitues of re
 - Use JavaScript ES6 functions to add GeoJSON data, features and interactivity to maps.
 - Render maps on a local server.
 
+The following is a picture of the rendered interactive map:  
+
+![Interactive Map](Interactive_Map.PNG)
+
+
