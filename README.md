@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------
  
 ## Project Approach
-Used JavaScript and the D3.js library to retrive coordinates and magnitues of recent earthquakes from the GeoJSON database.  
+Used JavaScript and the D3.js library to retrieve coordinates and magnitudes of recent earthquakes from the GeoJSON database.  
 
 ## Skills Learnd
 
